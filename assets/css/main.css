@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.menu2{
+    background-color:#28a745;
+    flex-wrap: nowrap !important;
+}
+.menu2 img{
+    float:left;
+    margin: 0 0 0 4px;
+}
+.navbar{
+    float: right;
+}
+footer{
+    background-color:#28a745;
+    color: white;
+    height: 300px;
+
+}
+.fila{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.p-3{
+    color: #212529;
+}
+.card{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.logo{
+    width: 180px;
+    margin-top: 24px;
+}
+.img-fluid{
+    width: 50%;
+}
+i{
+    font-size: 15px;
+}
+.contentcard2{
+    float: right;
+}
+.tituloCarta{
+    color:#212529;
+    font-size: 19px;
+}
+.gris{
+    color: #707070;
+}
+.cajaLocacion{
+    font-size: 14px;
+}
+.CajaSubtitulo{
+    font-size: 16px;
+    color: #707070;
+}
